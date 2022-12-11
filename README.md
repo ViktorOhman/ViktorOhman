@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ViktorOhman
 - 👀 I’m interested in uhhhh programming ¯\_(ツ)_/¯
-- 🌱 I’m currently learning Python, Java and C#
+- 🌱 I’m currently learning Python and C#
 - 📫 You can reach me with my email vikto.ohm@gmail.com
 
 <!---
